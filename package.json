@@ -1,7 +1,7 @@
 {
   "name": "plist2json",
   "version": "0.0.1",
-  "description": "A command line tool to convert *.plist files to JSON files",
+  "description": "A command line tool to convert *.plist files to JSON files.",
   "main": "plist2json.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
