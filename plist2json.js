@@ -23,8 +23,6 @@ fs.readFile(plistFile, 'utf8', function (err, content) {
         process.exit(1);
     }
 
-    console.log(content);
-
     var json = plist.parse(content);
     console.log(JSON.stringify(json, null, 2));
 });
