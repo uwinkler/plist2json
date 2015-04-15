@@ -1,0 +1,26 @@
+{
+  "name": "plist2json",
+  "version": "0.0.1",
+  "description": "A command line tool to convert *.plist files to JSON files",
+  "main": "plist2json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uwinkler/plist2json.git"
+  },
+  "bin": {
+    	"plist2json": "./plist2json.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uwinkler/plist2json/issues"
+  },
+  "homepage": "https://github.com/uwinkler/plist2json",
+  "dependencies": {
+    "commander": "^2.8.0",
+    "plist": "^1.1.0"
+  }
+}
