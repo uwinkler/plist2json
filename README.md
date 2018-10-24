@@ -1,5 +1,7 @@
 # plist2json
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/uwinkler/plist2json.svg)](https://greenkeeper.io/)
+
 A tool to convert Apple's plist files to JSON.
 
 
